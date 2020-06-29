@@ -1,6 +1,6 @@
-# AWS Textract-Maven-Java
+# AWS Textract-Java
 
-- This is the simple implementation on AWS Textract Service consuming using Maven in java.
+- This is the simple implementation on AWS Textract Service consuming in java.
 
 # Configuration
 
@@ -8,7 +8,7 @@
 
 # Installation
 
-- You Need to install AWS SDK for JAVA and need to install ```com.amazonaws.services``` package in Project.
+- You Need to install AWS SDK for JAVA and need to install ```com.amazonaws.services``` jar in Project.
 
 # SetUp
 
